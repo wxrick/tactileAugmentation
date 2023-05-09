@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/intro.unity
+    guid: 7af66a1136518bd42b3c09f4848efc09
+  - enabled: 1
+    path: Assets/Scenes/blackandwhite.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/blackandwhite5m.unity
+    guid: e7d3e17b9b21f32459e7526a640bcba3
+  - enabled: 1
+    path: Assets/Scenes/colorScene.unity
+    guid: 64c03372d10aef044b5b5af6d876f3eb
+  - enabled: 1
+    path: Assets/Scenes/vectorStates.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}
